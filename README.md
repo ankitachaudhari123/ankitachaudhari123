@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankita-balaram-chaudhari-6650b3273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-balaram-chaudhari-6650b3273" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankita-chaudhari-6650b3273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-balaram-chaudhari-6650b3273" height="30" width="40" /></a>
 <a href="https://instagram.com/an_kita_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an_kita_30" height="30" width="40" /></a>
 </p>
 
