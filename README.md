@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Chaudhari</h1>
-<h3 align="center">A passionate Full Stack Web Developer From India</h3>
+<h3 align="center">A passionate Full Stack Developer From India</h3>
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/077ee2a7bd163bf9fc8087a47c27751371cbc6e13df25eba70ec0d4e57f0d41e/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d6563663035653437693333746f6337316973327a366a69396e7a70367977626e6d36746f6b6468736775617838357731267269643d67697068792e6769662663743d67">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitachaudhari123&label=Profile%20views&color=0e75b6&style=flat" alt="ankitachaudhari123" /> </p>
